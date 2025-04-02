@@ -1,0 +1,12 @@
+___pycache__/
+**/__pycache__/
+
+poetry.lock
+
+.vscode/
+
+.env
+.env.*
+
+.ruff_cache/
+.mypy_cache/
