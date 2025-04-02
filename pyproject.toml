@@ -50,7 +50,7 @@ check_untyped_defs = true
 ignore_missing_imports = true
 strict_optional = true
 disallow_untyped_defs = true
-exclude = ["alembic", "tests"]
+exclude = ["alembic", "tests", ".*(config_file).py"]
 explicit-package-bases = true
 
 
